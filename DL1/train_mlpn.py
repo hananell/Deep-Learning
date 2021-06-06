@@ -5,9 +5,6 @@ import random
 import sys
 from ast import literal_eval
 
-STUDENT = {'name': 'Israel Cohen & HANANEL HADAD',
-           'ID': '205812290 & 313369183'}
-
 # Hyper params:
 learning_rate = 0.02
 num_iterations = 20
