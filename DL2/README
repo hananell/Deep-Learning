@@ -1,0 +1,16 @@
+Hananel Hadad – 313369183		Israel Cohen - 205812290
+
+Welcome to our ass2!
+
+the python files has to be in the same folder as 'pos' and 'ner' folders, and with the vocab and pre-trained vectors files. they search for "pos/train".etc
+
+tagger1 is for parts 1,3,4 and tagger5 is for part 5 only. but tagger5 import some functions from tagger1 so it they too have to be in the same folder.
+
+to run the programs you need to specify the following arguments:
+1 - 'pos' or 'ner'.
+2 - part(s) to run: 'part1', 'part3' or 'part4' for tagger1. 'part5' for tagger5.
+
+
+It is possible to give numerous parts, such as 'part1 part3 part4' for tagger1, or 'part1 part3 part4 part5' for tagger5 to combine the effects of each parts. In this case, The name of produced test file will be like the last part given, for example 'ner part1 part4' will produce 'test4.ner'
+
+When running advanced part it's not obligatory to give 'part1' because it doesn't have any special effect.
