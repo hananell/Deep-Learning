@@ -4,8 +4,6 @@ import random
 from collections import Counter
 from xor_data import data as XORData
 
-STUDENT = {'name': 'Israel Cohen', 'name2': 'Hananel Hadad',
-           'ID': '205812290', 'ID2': '313369183'}
 
 # Hyper params:
 learning_rate = 0.1
