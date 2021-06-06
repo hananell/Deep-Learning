@@ -3,8 +3,7 @@ import numpy as np
 import random
 from train_loglin import make_data, text_to_bigrams, text_to_unigrams, bi_uni
 
-STUDENT = {'name': 'Israel Cohen', 'name2': 'Hananel Hadad',
-           'ID': '205812290', 'ID2': '313369183'}
+
 
 # Hyper params:
 learning_rate = 0.05
