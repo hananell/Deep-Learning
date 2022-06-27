@@ -1,5 +1,3 @@
-Hananel Hadad – 313369183		Israel Cohen - 205812290
-
 Welcome to our ass2!
 
 the python files has to be in the same folder as 'pos' and 'ner' folders, and with the vocab and pre-trained vectors files. they search for "pos/train".etc
